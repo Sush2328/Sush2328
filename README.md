@@ -9,7 +9,7 @@ Building tools at the intersection of AI infrastructure and financial intelligen
 **Background:** Strategy and Operations professional across Revolut, CtrlS Datacenters, and IIFL Finance. IIM Ahmedabad MBA, IIT Patna B.Tech.
 
 ### Projects
-- **[LLM Cost Attribution and Routing Observatory](https://sush2328.github.io/llm-observatory)** — Inference cost attribution, model routing engine, prompt waste analysis, and governance dashboards across OpenAI and Anthropic workloads
+- **[LLM Cost Attribution and Routing Observatory](https://sush2328.github.io/llm-observatory)** - Inference cost attribution, model routing engine, prompt waste analysis, and governance dashboards across OpenAI and Anthropic workloads
 
 <!--
 **Sush2328/Sush2328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
