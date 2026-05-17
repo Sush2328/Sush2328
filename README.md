@@ -4,7 +4,7 @@ AI Operations | Inference Cost Governance | Platform Economics
 
 Building tools at the intersection of AI infrastructure and financial intelligence.
 
-**Current focus:** AI platform economics — token attribution, model routing, inference cost governance
+**Current focus:** AI platform economics - token attribution, model routing, inference cost governance
 
 **Background:** Strategy and Operations professional across Revolut, CtrlS Datacenters, and IIFL Finance. IIM Ahmedabad MBA, IIT Patna B.Tech.
 
